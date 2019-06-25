@@ -43,9 +43,9 @@ This is a simple game built around the classic frogger type game.  The player ne
 ---
 
 ## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
+
+The game is build using Javacript classes on a Javascript ```canvas```.  There are three many classes, one for players, another for enemies and another for features.  There are a few functions that monitor game *incidents* like collisions with bugs *the enemies*, collecting *features* and the start, restart and select player functions.  The game ```engine.js``` which provides the canvas and constant update functionality is provided by Udacity with start code the app.js and index.html as well. My job was to activate the game. 
+
 
 ---
 
