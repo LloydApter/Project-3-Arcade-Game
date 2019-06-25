@@ -8,7 +8,7 @@ This is a simple game built around the classic frogger type game.  The player ne
 
 ## Game Screen Shot on iPhone 6/7/8 Size Screens
 
-<img scr=https://raw.githubusercontent.com/LloydApter/Project-3-Arcade-Game/master/images/game-screenshot.png>
+<img src=https://raw.githubusercontent.com/LloydApter/Project-3-Arcade-Game/master/images/game-screenshot.png>
 
 
 ## Table of Contents
@@ -55,7 +55,7 @@ This is a simple game built around the classic frogger type game.  The player ne
 
 ## Team, just me:
 
-<img src=https://avatars2.githubusercontent.com/u/20930038?s=460&v=4?s=200>
+<img src=https://avatars2.githubusercontent.com/u/20930038?s=460&v=4 width="200px">
 
 
 ---
@@ -97,7 +97,6 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 
 
 ## Instructions (as provided by Udacity)
