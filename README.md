@@ -42,7 +42,7 @@ This is a simple game built around the classic frogger type game.  The player ne
 
 ### Setup
 
-- As mentioned above, there is no special setup required as the game us built without libraries using vanilla JavaScript
+- As mentioned above, there is no special setup required as the game us built without libraries using vanilla JavaScript.  The ticker CSS I found as a tutorial on Code Boxx, here is the link to check it out <a href=https://code-boxx.com/html-css-news-ticker-horizontal-vertical/>Code Boxx</a>, so full credit and thanks to Code Boxx for the CSS ticker code.
 ---
 
 
