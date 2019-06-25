@@ -8,22 +8,23 @@ This is a simple game built around the classic frogger type game.  The player ne
 
 ## Game Screen Shot on iPhone 6/7/8 Size Screens
 
+
 <img src=https://raw.githubusercontent.com/LloydApter/Project-3-Arcade-Game/master/images/game-screenshot.png>
 
 
 ## Table of Contents
 
+
 - [Installation](#installation)
+- [Clone](#clone)
+- [Setup](#setup)
 - [Features](#features)
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-- [Contributing](#contributing)
 - [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
+- [FAQ](#FAQ)
+- [Contact me](#contact-me)
 - [License](#license)
+- [Instructions](#instructions)
+
 
 
 ---
@@ -33,14 +34,17 @@ This is a simple game built around the classic frogger type game.  The player ne
 - The is a JavaScript browser game so no installation required other than uploading to a sever.
 - To play this on your computer just open the index.html file in your favorite browser, ideally Chrome or Firefox or Edge as these all support ES6 JavaScript.
 
+
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/LloydApter/Project-3-Arcade-Game.git`
+
 
 ### Setup
 
 - As mentioned above, there is no special setup required as the game us built without libraries using vanilla JavaScript
 ---
+
 
 ## Features
 
@@ -77,15 +81,17 @@ The game is build using Javacript classes on a Javascript ```canvas```.  There a
 - **How do I earn *lose points*?**
     - There are two ways to lose points. Squashing a bug costs you a life and going into the *special feature Rock* costs you a life and score points.
 
+
 ---
 
-## contact with me
+## Contact me
 
 Reach out to me at one of the following places!
 
 - Website at <a href="https://managesoft.co.il" target="_blank">`managesoft.co.il`</a>
 - Twitter at <a href="https://twitter.com/msptweets" target="_blank">`@msptweets`</a>
 - Insert more social links here.
+
 
 ---
 
@@ -94,6 +100,7 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
 
 
 ## Instructions (as provided by Udacity)
