@@ -87,6 +87,7 @@ canvas {
 }
 
 /* Ticker code for scores */
+/* Full credit to Code Boxx for the code - https://code-boxx.com/html-css-news-ticker-horizontal-vertical/ */
 @keyframes ticker {
     0% { transform: translate3d(0, 0, 0); }
     100% { transform: translate3d(-100%, 0, 0); }
@@ -127,6 +128,7 @@ canvas {
   }
 
 /* Ticker code for messages */
+/* Full credit to Code Boxx for the code - https://code-boxx.com/html-css-news-ticker-horizontal-vertical/ */
 @keyframes message-ticker {
   0% { transform: translate3d(0, 0, 0); }
   100% { transform: translate3d(-100%, 0, 0); }
