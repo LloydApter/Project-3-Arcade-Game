@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+
+<head profile="http://www.w3.org/2005/10/profile">
+    <link rel="icon" type="image/png" href="/img/fav.png" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Effective JavaScript: Frogger</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>CLASSIC ARCADE GAME</h1>
+    </header>
+    <main>
+        <!-- Game score tickers -->
+        <section class="ticker">
+            <div class="ticker-container">
+                <div class="ticker-wrap">
+                    <div class="ticker-move">
+                        <div class="ticker-item"><span class="ticker-text">SCORE </span><span class="ticker-score"
+                                id="ticker-score">0</span></div>
+                        <div class="ticker-item"><span class="ticker-text">WINS </span><span class="ticker-score"
+                                id="ticker-won">0</span> </div>
+                        <div class="ticker-item"><span class="ticker-text">LIVES </span><span class="ticker-score"
+                                id="ticker-lives">0</span></div>
+                        <div class="ticker-item"><span class="ticker-text">GEMS </span><span class="ticker-score"
+                                id="ticker-gems">0</span> </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Game message update ticker -->
+        <section class="message">
+            <div class="message-container">
+                <div class="message-wrap">
+                    <div class="message-move">
+                        <div class="message-item"><span class="ticker-message" id="ticker-update">GAME OVER!</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="js/resources.js"></script>
+    <script src="js/engine.js"></script>
+    <script src="js/app.js"></script>
+    <footer>
+        <!-- Game control buttons. Note: Have difficulty setting these on the specific elements so set them on the doc.  Still wqorks but not idea -->
+    <div id="gameControls">
+            <button id="startGame"><span class="game-controls">START GAME</span></button>
+            <button id="selectAvatar"><span class="game-controls">SELECT PLAYER</span></button>
+            <button id="restartGame"><span class="game-controls">RESTART GAME</span></button>
+        </div>
+    </footer>
+</body>
+
+</html>
