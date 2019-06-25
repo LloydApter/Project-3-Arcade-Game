@@ -47,15 +47,12 @@ This is a simple game built around the classic frogger type game.  The player ne
 ## Documentation (Optional)
 ## Tests (Optional)
 
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
-
 ---
 
 
 ## Team, just me:
 
-<img src=https://avatars2.githubusercontent.com/u/20930038?s=460&v=4 width="200px">
+<img src=https://avatars2.githubusercontent.com/u/20930038?s=460&v=4>
 
 
 ---
