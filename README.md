@@ -50,9 +50,9 @@ This is a simple game built around the classic frogger type game.  The player ne
 ---
 
 
-## Team, just me:
+## Team
 
-<img src=https://avatars2.githubusercontent.com/u/20930038?s=460&v=4>
+- Just me and the kind help of our great instuctors and fellow students at Udacity!
 
 
 ---
